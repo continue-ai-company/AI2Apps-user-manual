@@ -61,4 +61,5 @@ node ./start.js
 
 - [简单对话](./doc/simple-chat-zh_CN.md)
 - [创建项目](./doc/create_project-zh_CN.md)
-- [查找已创建项目 ](./doc/find_project-zh_CN.md)
+- [查找已创建项目](./doc/find_project-zh_CN.md)
+- [团队协作](./doc/teamwork-zh_CN.md)

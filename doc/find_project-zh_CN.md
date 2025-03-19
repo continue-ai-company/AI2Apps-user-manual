@@ -12,3 +12,9 @@
 方法二： 在`最近的工程`列表中，点击想要开的项目（例如：TestDemo1）即可。
 
 <div><img src="../assets/find_project5_cn.jpg" alt="find_project5" width="60%"/></div>
+
+<p align="right" >
+  <a href="../README-zh_CN.md" style="text-decoration: none; color: gray; font-weight: bold;">
+    🔗 返回主页
+  </a>
+</p>
