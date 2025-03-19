@@ -1,3 +1,5 @@
+<a name="readme-top">
+
 # AI2Apps-user-manual  
 
 [English](./README.md) 
@@ -56,11 +58,10 @@ node ./start.js
 ```
 
 <p style="color:gray;">当ai2apps项目启动成功后，浏览器将自动打开dashboard页面。</p>
+<!-- <img src="./assets/aa_home_cn.jpg" alt="home" /> -->
+<img src="https://github.com/continue-ai-company/AI2Apps-user-manual/tree/main/assets/aa_home_cn.jpg" alt="home" />
 
-<p align="center">
-  <img src="./assets/aa_home_cn.jpg" alt="home" />
-  <span style="color:gray;font-size:12px;">dashboard.jpg</span>
-</p>
+
 
 ## 👋 入门指南
 
