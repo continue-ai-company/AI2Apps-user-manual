@@ -14,7 +14,6 @@ Click `Development` -> `New Dev. Project`, select project type.
 Click `Browser AI Agent` -> `Simple AI Agent App` -> enter project name (TestDemo3) -> `Create`, the project will be created successfully.
 
 <p>
-    <img src="../assets/create_web_project1.jpg" alt="create_web_project1" width="50%"/>
     <img src="../assets/create_web_project2.jpg" alt="create_web_project2" width="50%"/>
     <img src="../assets/create_web_project3.jpg" alt="create_web_project3" width="50%"/>
 </p>

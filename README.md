@@ -60,7 +60,7 @@ node ./start.js
 
 - [Basic Function](./doc/simple-chat.md)
 - [Create Project](./doc/create_project.md)
-- [Find Project](./doc/find_project.md)
+- [Find Created Project](./doc/find_project.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 
