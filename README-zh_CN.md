@@ -9,13 +9,10 @@ AI2Apps可以直接在网页中使用，也可以用本项目部署在本地使�
 
 ### 1. 直接使用网页版
 
-- 用桌面浏览器访问： [https://www.ai2apps.com](https://www.ai2apps.com)  
+用桌面浏览器访问： [https://www.ai2apps.com](https://www.ai2apps.com)  
 
-<div style="color:gray; margin-left:30px;">
-    <div>第一次打开网页会进行开发环境安装与配置，根据浏览器以及网络的不同，大概需要几秒到1分钟的时间。</div>
-    <div>测试期间，要访问 AI 模型，需要注册并登录 Tab-OS（注册 Tab-OS 账号完全免费）。成功注册/登录后，就可以使用项目向导就创建 AI Agent 项目了。</div>
-</div>
-
+> 第一次打开网页会进行开发环境安装与配置，根据浏览器以及网络的不同，大概需要几秒到1分钟的时间。
+> 测试期间，要访问 AI 模型，需要注册并登录 Tab-OS（注册 Tab-OS 账号完全免费）。成功注册/登录后，就可以使用项目向导就创建 AI Agent 项目了。
 
 ### 2. 部署本地环境
 
@@ -56,8 +53,8 @@ pip install -r requirements.txt
 cd ai2apps
 node ./start.js
 ```
+> 当ai2apps项目启动成功后，浏览器将自动打开dashboard页面。
 
-<p style="color:gray;">当ai2apps项目启动成功后，浏览器将自动打开dashboard页面。</p>
 <img src="./assets/aa_home_cn.jpg" alt="home" />
 
 ## 👋 入门指南

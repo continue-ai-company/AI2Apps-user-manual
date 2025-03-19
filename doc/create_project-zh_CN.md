@@ -46,21 +46,21 @@
 </p>
 
 在页面底部工具栏区域，点击`与设备目录同步`按钮，在弹出框内Sync target一栏输入`AGENTS/TestDemo2`，点击`同步`按钮，再点击`确认`，创建的项目将会在本地目录进行同步。
-<p>
+<div>
     <img src="../assets/create_python_project6_cn.jpg" alt="create_python_project6" />
-</p>
-<p>
+</div>
+<div>
     <img src="../assets/create_python_project7_cn.jpg" alt="create_python_project7" width="60%"/>
-</p>
-<p>
+</div>
+<div>
     <img src="../assets/create_python_project8_cn.jpg" alt="create_python_project8" width="50%"/>
-</p>
+</div>
 
 点击`调试 Agent `->`确定`，Agent启动成功。
 <p>
     <img src="../assets/create_python_project9_cn.jpg" alt="create_python_project9" />
     <img src="../assets/create_python_project10_cn.jpg" alt="create_python_project10" width="50%"/>
-     <img src="../assets/create_python_project11_cn.jpg" alt="create_python_project11" />
+    <img src="../assets/create_python_project11_cn.jpg" alt="create_python_project11" />
 </p>
 
 <p align="right" >
