@@ -17,9 +17,9 @@ AI2Apps可以直接在网页中使用，也可以用本项目部署在本地使�
 
 ### 2. 部署本地环境
 
-- 安装[Anaconda](https://www.anaconda.com/) 
+- 安装 [Anaconda](https://www.anaconda.com/) 
 
-- 下载[AI2Apps Demo](https://github.com/Avdpro/ai2apps)
+- 下载 [AI2Apps Demo](https://github.com/Avdpro/ai2apps)
 
 ```bash
 git clone https://github.com/Avdpro/ai2apps.git
@@ -64,8 +64,8 @@ node ./start.js
 
 ## 👋 入门指南
 
-- [简单对话](./simple-chat-zh_CN.md)
-- [创建项目](./create_project-zh_CN.md)
+- [简单对话](./doc/simple-chat-zh_CN.md)
+- [创建项目](./doc/create_project-zh_CN.md)
 
 
 
