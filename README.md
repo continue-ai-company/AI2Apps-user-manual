@@ -56,7 +56,7 @@ node ./start.js
 
 <img src="./assets/aa_home_en.jpg" alt="home" />
 
-## 👋 Getting Started Guide
+## 👋 Getting Started
 
 - [Basic Function](./doc/simple-chat.md)
 - [Create Project](./doc/create_project.md)
