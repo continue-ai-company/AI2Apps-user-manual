@@ -63,3 +63,4 @@ node ./start.js
 - [创建项目](./doc/create_project-zh_CN.md)
 - [查找已创建项目](./doc/find_project-zh_CN.md)
 - [团队协作](./doc/teamwork-zh_CN.md)
+- [更新系统](./doc/update_system-zh_CN.md)
