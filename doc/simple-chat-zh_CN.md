@@ -12,7 +12,7 @@ ai2apps进入对话页面，并展示具体聊天内容与工作流。
 </p>
 
 <p align="right" >
-  <a href="../README-zh_CN.md" style="text-decoration: none; color: gray; font-weight: bold;">
+  <a href="../README-zh_CN.md">
     🔗 返回主页
   </a>
 </p>

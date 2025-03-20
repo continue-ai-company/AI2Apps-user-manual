@@ -12,8 +12,9 @@ Click `Development` -> `TabOS IDE`:
 - In the `Recent Projects` list, click the project you want to open (TestDemo4).
 
 <div><img src="../assets/find_project5.jpg" alt="find_project5" width="60%"/></div>
+
 <p align="right" >
-  <a href="../README.md" style="text-decoration: none; color: gray; font-weight: bold;">
+  <a href="../README.md">
     🔗 Back to Home
   </a>
 </p> 

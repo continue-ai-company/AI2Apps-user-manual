@@ -12,7 +12,7 @@ Then, ai2apps will show the conversation page, including the specific chat conte
 </p>
 
 <p align="right" >
-  <a href="../README.md" style="text-decoration: none; color: gray; font-weight: bold;">
+  <a href="../README.md">
     🔗 Back to Home
   </a>
 </p>
