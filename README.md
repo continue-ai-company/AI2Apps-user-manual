@@ -58,9 +58,10 @@ node ./start.js
 
 ## 👋 Getting Started
 
-- [Basic Function](./doc/simple-chat.md)
+- [Basic Chat](./doc/simple-chat.md)
 - [Create Project](./doc/create_project.md)
 - [Find Created Project](./doc/find_project.md)
+- [Write Agent](./doc/write_agent.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 
