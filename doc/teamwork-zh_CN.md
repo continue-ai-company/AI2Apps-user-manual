@@ -29,6 +29,16 @@ disk update
 disk addmb
 ```
 
+#### 获取云端项目
+
+在dashboard页面，点击 `Tools` -> 点击`文件管理器 -> 点击 `Check out from cloud` -> 输入 `Cloud disk ID` 和 `Local folder (disk) name` -> 点击 `OK` 即可。
+
+<div><img src="../assets/get_cloud_project1_cn.jpg" alt="get_cloud_project1" /></div>
+<div><img src="../assets/get_cloud_project2_cn.jpg" alt="get_cloud_project2" /></div>
+<div><img src="../assets/get_cloud_project3_cn.jpg" alt="get_cloud_project3" /></div>
+<div><img src="../assets/get_cloud_project4_cn.jpg" alt="get_cloud_project4" /></div>
+
+
 <p align="right" >
   <a href="../README-zh_CN.md">
     🔗 返回主页
