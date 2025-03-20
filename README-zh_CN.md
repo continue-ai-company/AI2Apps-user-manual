@@ -39,7 +39,7 @@ AAF_EXECUATABLE=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
 
 ```bash
 cd ai2apps
-nmp install
+npm install
 ```
 
 ```bash
@@ -62,13 +62,18 @@ node ./start.js
 - [简单对话](./doc/simple-chat-zh_CN.md)
 - [创建 Agent](./doc/create_project-zh_CN.md)
 - [查找已创建的 Agent](./doc/find_project-zh_CN.md)
-- [编写 Agent](./doc/write_agent-zh_CN.md)
+- [使用 IDE](./doc/write_agent-zh_CN.md)
+- [使用组件](./doc/component-zh-CN.md)
 - [团队协作](./doc/teamwork-zh_CN.md)
 - [更新系统](./doc/update_system-zh_CN.md)
 
+## 💡 常见问题
+
+- [清单](./question-zh-CN.md)
+
 ## 🔖 更新日志
 
-- [日志](./CHANGELOG.zh-CN.md)
+- [日志](./CHANGELOG-zh-CN.md)
 
 
 

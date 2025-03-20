@@ -23,7 +23,7 @@
     <img src="../assets/create_web_project5_cn.jpg" alt="create_web_project5" />
 </p>
 
-点击`调试 Agent `->`确定`，Agent启动成功。
+点击`调试 Agent `->`确定`，Agent 启动成功。
 <p>
     <img src="../assets/create_web_project6_cn.jpg" alt="create_web_project6" />
     <img src="../assets/create_web_project7_cn.jpg" alt="create_web_project7" width="50%"/>

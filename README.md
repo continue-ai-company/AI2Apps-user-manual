@@ -38,7 +38,7 @@ AAF_EXECUATABLE=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome
 
 ```bash
 cd ai2apps
-nmp install
+npm install
 ```
 
 ```bash
@@ -61,9 +61,14 @@ node ./start.js
 - [Basic Chat](./doc/simple-chat.md)
 - [Create Agent](./doc/create_project.md)
 - [Find Created Agent](./doc/find_project.md)
-- [Write Agent](./doc/write_agent.md)
+- [Use IDE](./doc/write_agent.md)
+- [Use Component](./doc/component.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
+
+## 💡 Q&A
+
+- [List](./question.md)
 
 ## 🔖 Changelog
 
