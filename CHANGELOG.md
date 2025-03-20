@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+
 #### Release Schedule
 
 - Add new features
@@ -61,3 +63,9 @@
 - Added new feature: Supports users in building Web Agents through built-in browser control components.
 - Supports users in invoking large language models on local computers via `Ollama`.
 - Supports users in utilizing existing Agents as APIs or components.
+
+<p align="right" >
+  <a href="#readme-top" style="text-decoration: none; color: gray; font-weight: bold;">
+    ↑ Back to Top ↑
+  </a>
+</p>
