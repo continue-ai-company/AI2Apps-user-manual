@@ -67,14 +67,8 @@
 <p align="right" >
   <a href="#readme-top">
     ↑ Back to Top ↑
-  </a>
-</p>
-
-<p align="right" >
-  <a href="#readme-top">
-    ↑ Back to Top ↑
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="../README-zh_CN.md">
+  <a href="./README.md">
     🔗 Back to Home
   </a>
 </p>

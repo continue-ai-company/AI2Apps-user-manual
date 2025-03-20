@@ -69,7 +69,7 @@
   <a href="#readme-top">
     ↑ 返回顶部 ↑
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="../README-zh_CN.md">
+  <a href="./README-zh_CN.md">
     🔗 返回主页
   </a>
 </p>
