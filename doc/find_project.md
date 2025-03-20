@@ -1,4 +1,4 @@
-## 🔍 Find Created Project
+## 🔍 Find Created Agent
 
 Click `Development` -> `TabOS IDE`:
 <div><img src="../assets/find_project1.jpg" alt="find_project1" /></div>

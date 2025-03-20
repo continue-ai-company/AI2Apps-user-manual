@@ -1,4 +1,4 @@
-## 🔍 查找已创建项目 
+## 🔍 查找已创建的 Agent 
 
 点击`开发`->`TabOS IDE`：
 <div><img src="../assets/find_project1_cn.jpg" alt="find_project1" /></div>

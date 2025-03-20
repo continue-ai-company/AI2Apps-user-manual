@@ -1,4 +1,4 @@
-## 📝 Create Project
+## 📝 Create Agent
 
 Click `Development` -> `New Dev. Project`, select project type.
 
