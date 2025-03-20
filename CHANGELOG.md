@@ -65,7 +65,16 @@
 - Supports users in utilizing existing Agents as APIs or components.
 
 <p align="right" >
-  <a href="#readme-top" style="text-decoration: none; color: gray; font-weight: bold;">
+  <a href="#readme-top">
     ↑ Back to Top ↑
+  </a>
+</p>
+
+<p align="right" >
+  <a href="#readme-top">
+    ↑ Back to Top ↑
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="../README-zh_CN.md">
+    🔗 Back to Home
   </a>
 </p>

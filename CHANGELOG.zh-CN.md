@@ -65,8 +65,11 @@
 - 支持用户通过 `Ollama` 调用本地计算机上的大型语言模型。
 - 支持用户将已有 Agent 作为 API 或组件使用。
  
- <p align="right" >
-  <a href="#readme-top" style="text-decoration: none; color: gray; font-weight: bold;">
+<p align="right" >
+  <a href="#readme-top">
     ↑ 返回顶部 ↑
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="../README-zh_CN.md">
+    🔗 返回主页
   </a>
- </p>
+</p>
