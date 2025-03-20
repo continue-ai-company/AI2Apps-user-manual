@@ -64,3 +64,6 @@ node ./start.js
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 
+## 🔖 Changelog
+
+- [Log](./CHANGELOG.md)
