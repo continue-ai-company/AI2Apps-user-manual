@@ -1,10 +1,6 @@
-### 能量及消耗
-如果使用自己部署的AI2Apps环境并配置了 OpenAI Key，调用 ChatGPT 将使用开发者本人的 OpenAI 流量。
-这种情况下系统不会有任何限制。   
-如果使用的是www.ai2apps.com环境运行/调试 Agent，在执行ChatGPT调用时会产生由系统承担的 OpenAI 费用。
-为了避免账单崩溃，系统通过"能量"限制用户对ChatGPT的调用量。  
+### Energy and Consumption
+If using a self-deployed AI2Apps environment configured with an OpenAI Key, invoking ChatGPT utilizes the developer's own OpenAI credits without any system-imposed restrictions.
+When running/debugging an Agent on www.ai2apps.com, the system covers the costs incurred from ChatGPT calls. To prevent unexpected bills, the system limits ChatGPT usage through an "energy" system.
 
-### 获得能量
-在成功注册登录 Tab-OS 后，用户会获得一定的免费能量，
-每天登录后也会根据当前用户等级为用户补充一定的能量。推荐新成员用户成功也可以获得免费的系统代币，
-可用于兑换能量。
+### Acquire Energy
+After successfully registering and logging into Tab-OS, users receive a certain amount of free energy credits. Additionally, each day upon logging in, users receive a replenishment of energy based on their current user level. Successfully referring new members also earns users free system tokens, which can be exchanged for energy credits.
