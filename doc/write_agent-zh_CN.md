@@ -53,7 +53,7 @@ Agent文件编辑界面有`代码`和`画布`两种模式，打开 Agent 后默�
   <img src="../assets/write_agent6_cn.jpg" alt="write_agent6" />
 </p>
 
-点击 `Step run` 或 `SlowMo` 可设置断点或进入缓慢调试模式。另外，推理视图区域，可以看到执行过程，蓝色线条代表该过程已经执行，黄色线条代表正在执行中。
+点击 `Step run` 和 `SlowMo` 可设置断点和进入缓慢调试模式。另外，推理视图区域，可以看到执行过程，蓝色线条代表该过程已经执行，黄色线条代表正在执行中。
 
 <p>
   <img src="../assets/write_agent7_cn.jpg" alt="write_agent7" />

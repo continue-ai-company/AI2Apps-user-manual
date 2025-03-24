@@ -6,35 +6,35 @@ In AI2Apps, each Agent is an independent js file, and the topology map informati
 
 The Agent file editing interface offers both `Code` and `Canvas` modes, with `Canvas` mode as the default upon opening an Agent.
 
-#### 1. 画布模式
+#### 1. Cavas Mode
 
-开发 IDE 在`画布`模式下：
+In the Canvas mode of the development IDE:  
 <p>
   <img src="../assets/write_agent1_cn.jpg" alt="write_agent1" />
 </p>
+ 
+> In the left of the picture: there is the organizational view of the Agent. Here, you can see the Agent objects and the list of "execution segments" they contain. Clicking on a project selects the object.
 
-> 图片左侧：Agent 的组织结构视图，这里显示 Agent 对象以及其包含的`执行片段`对象列表，点击项目可以选中对象。 
+> In the center of the picture: there's the Agent topology diagram canvas. Here, you can drag and drop to create "execution segments" and connect them together by dragging connections between segments.
 
-> 图片中间：Agent 拓扑图画布，在这里可以通过拖拽组件来创建`执行片段`对象，并通过拖拽把各个片段之间连接起来。  
+> In the right of the picture: there's the object property editor view. Here, editable properties of the currently selected object are listed. For example, parameters like model selection and temperature settings when calling ChatGPT.
 
-> 图片右侧：对象属性编辑器视图，在这里会列出当前选中的对象的可编辑属性，例如调用 ChatGPT 时的模型选择、温度参数等。
+#### 2. Code Mode
 
-#### 2. 代码模式
-
-开发 IDE 在`代码`模式下：  
+In the Code mode of the development IDE:    
 <p>
   <img src="../assets/write_agent2_cn.jpg" alt="write_agent2" />
 </p>
 
-> 图片左侧、右侧：依然是 Agent 的组织结构与对象属性编辑视图。
+> In the left and right of the picture: there is the organizational structure of the Agent and the object property editing view remain unchanged.
 
-> 图片中间：Agent 的详细代码。 当编辑 Agent 拓扑图以及对象属性时，代码会自动更新。另外，开发者也可以自己手动编写代码，用于实现可视化编辑无法完成的逻辑。
+> In the center of the picture: there is the Agent code. When editing the Agent topology diagram and object properties, the code updates automatically. Developers can also manually write code to implement logic that cannot be achieved through visual editing alone.
 
-### 运行\调试 Agent
+### Launch\Debug Agent
 
-### 1. 运行 
+### 1. Launch Agent 
 
-在 IDE 左上角或顶部工具栏区域，点击`运行项目`按钮 -> `Run Chat App`，即可运行当前的 Agent 项目。
+In the upper left corner of the IDE or the top toolbar area, click the `Run Project` -> `Run Chat App` to run the current Agent project.
 
 <p>
   <img src="../assets/write_agent3_cn.jpg" alt="write_agent3" />
@@ -44,21 +44,21 @@ The Agent file editing interface offers both `Code` and `Canvas` modes, with `Ca
   <img src="../assets/write_agent5_cn.jpg" alt="write_agent5" />
 </p>
 
-### 2. 调试
+### 2. Debug Agent
 
-点击`调试 Agent` ->`确定`，即可以调试模式启动 AI Agent。
+Click `Debug Agent` -> `OK` to start the current Agent project in debug mode. 
 
 <p>
   <img src="../assets/write_agent6_cn.jpg" alt="write_agent6" />
 </p>
 
-点击 `Step run` 或 `SlowMo` 可设置断点或进入缓慢调试模式。另外，推理视图区域，可以看到执行过程，蓝色线条代表该过程已经执行，黄色线条代表正在执行中。
+Click `Step run` and `SlowMo` can set breakpoints and enter in slow debug mode. In addition, in the inference view area, you can see the execution process. The blue line indicates that the process has been executed, and the yellow line indicates that the process is being executed.
 
 <p>
   <img src="../assets/write_agent7_cn.jpg" alt="write_agent7" />
 </p>
 
-点击 `Logs`，可以查看详细的对话流程，每一步`输入`和`输出`的内容。
+Click `Logs`,  you can see the dialogue flow in detail and the input and output content of each step.
 
 <p>
   <img src="../assets/write_agent8_cn.jpg" alt="write_agent8" />
