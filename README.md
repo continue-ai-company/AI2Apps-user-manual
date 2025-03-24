@@ -15,6 +15,8 @@ Accessed with a desktop browser: [https://www.ai2apps.com](https://www.ai2apps.c
 
 > During testing, accessing AI models requires registering and logging into Tab-OS (signing up for a Tab-OS account is completely free). Once you successfully register or log in, you can use the project wizard to create AI Agent projects.
 
+> Limitations of browser access to AI2Apps: RPA is not supported, and deploying local AI projects are not supported. If you want to experience these features, please deploy AI2Apps locally.
+
 ### 2. Local Deployment
 
 - Install [Anaconda](https://www.anaconda.com/) 
@@ -62,6 +64,7 @@ node ./start.js
 - [Create Agent](./doc/create_project.md)
 - [Find Created Agent](./doc/find_project.md)
 - [Use IDE](./doc/write_agent.md)
+- [Tool Mart](./doc/too_mart.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 - [Switch Language](./doc/language.md)
