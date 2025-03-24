@@ -7,6 +7,14 @@
 - 日常 bugfix 更新
 
 ## 变更记录
+`2025-03-22`
+- 新增ChatEntry机制，在Dashboard页面，可以选择默认对话的工具/入口。
+- 优化默认对话Agent对附件的处理方式，确保附件可以正确的传递给Agent。详细的Agent读取附件，可参考AgentBuilder/ai/SysReadImage.js智能体。
+- 调整`智能体市场`、`当前时间`、`RpaWebSearch`、`SysReadImage`智能体为系统智能体。
+
+`2025-03-21`
+- 修复从工具市场安装时，同步目录的bug
+
 `2025-03-20`
 - 优化`聊天输入`组件，新增`允许文件`属性。
 - 合并`aarpa`库至`aae`库。

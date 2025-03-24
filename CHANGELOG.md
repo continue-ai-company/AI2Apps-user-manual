@@ -7,6 +7,14 @@
 - Routine bugfix
 
 ## Changelog
+`2025-03-22`
+- Added the ChatEntry mechanism. On the Dashboard page, you can select tools or entrances for default dialog.
+- Optimized the default dialog Agent's handling of attachments to ensure that attachments can be correctly passed to the Agent. Detailed Agent read attachment, refer to AgentBuilder/ai/SysReadImage js Agent.
+- Adjusted `Agent Market`, `Current Time`, `RpaWebSearch`, `SysReadImage` agents to system agents.
+
+`2025-03-21`
+- Fixed a bug in synchronizing directories when installing from the tool market.
+
 `2025-03-20`
 - Optimized `User Chat` component, added `Allow file` property.
 - `aarpa` library to `aae` library.
