@@ -1,4 +1,4 @@
-## 💬 Basic Function
+## 💬 Basic Chat
 
 In the input field, type "introduce ai2apps" and click the send button.
 
