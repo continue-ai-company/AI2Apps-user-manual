@@ -66,6 +66,7 @@ node ./start.js
 - [使用组件](./doc/component-zh-CN.md)
 - [团队协作](./doc/teamwork-zh_CN.md)
 - [更新系统](./doc/update_system-zh_CN.md)
+- [切换语言](./doc/language-zh-CN.md)
 
 ## 💡 常见问题
 

@@ -65,6 +65,7 @@ node ./start.js
 - [Use Components](./doc/component.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
+- [Switch Language](./doc/language.md)
 
 ## 💡 Q&A
 
