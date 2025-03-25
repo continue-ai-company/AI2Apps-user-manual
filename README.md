@@ -64,6 +64,7 @@ node ./start.js
 - [Create Agent](./doc/create_project.md)
 - [Find Created Agent](./doc/find_project.md)
 - [Use IDE](./doc/write_agent.md)
+- [Publish Agent](./doc/publish-agent.md)
 - [Tool Mart](./doc/too_mart.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)

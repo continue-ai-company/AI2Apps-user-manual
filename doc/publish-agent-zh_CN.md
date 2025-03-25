@@ -1,4 +1,4 @@
-## 发布 Agent
+## 发布智能体
 
 ### 确认输出信息
 
@@ -135,7 +135,43 @@ async function setupAgent(session,path,lan="EN"){
 
 ### 发布项目
 
-- 点击侧边栏上的用户图标 -> 点击`管理帐户` -> 
+- 点击侧边栏上的用户图标 -> 点击`管理帐户` -> 点击`发布新应用`。
 
 <div><img src="../assets/publish_agent1_cn.jpg" alt="publish_agent1" /></div>
 <div><img src="../assets/publish_agent2_cn.jpg" alt="publish_agent2" /></div>
+
+- 输入`应用程序ID`（该内容代表发布项目的唯一标识，不是名称）-> 打开`发布到智能市场` -> 点击`下一步`。
+
+<div><img src="../assets/publish_agent3_cn.jpg" alt="publish_agent3" /></div>
+
+- 输入`应用程序名称` -> 选择`运行模式`。如果您有任何 Agent 运行在后端，请选择`后端智能体节点`，否则请选择`在 Tab-OS 里运行的应用或智能体`。
+
+<div><img src="../assets/publish_agent5_cn.jpg" alt="publish_agent5" /></div>
+
+- 填写您的应用或智能体`描述`。
+
+<div><img src="../assets/publish_agent4_cn.jpg" alt="publish_agent4" /></div>
+
+- 选择 App 或 Agent 的`图标`，该图标将在`智能体市场`显示。接着，选择之前下载的项目zip包作为`应用程序安装文件`。然后，输入`版本`，点击`下一步`。
+
+<div><img src="../assets/publish_agent6_cn.jpg" alt="publish_agent6" /></div>
+
+- 选择 App 或 Agent `分类`、`功能`，输入用于搜索的`标签`，再点击`发布`，即可将应用或智能体发布到`应用市场`。
+
+<div><img src="../assets/publish_agent7_cn.jpg" alt="publish_agent7" /></div>
+
+### 安装项目
+
+详细步骤请参考[市场工具](./too_mart-zh_CN.md)。
+
+### 升级智能体
+
+升级智能体与发布智能体一样，需要先准备好智能体的 zip 包。点击侧边栏上的用户图标 -> 点击`管理帐户` -> 点击`我的应用` -> 选择要升级的 Agent 或 App -> 点击升级图标，更新智能体发布信息后，即可发布新版本。
+> 注意：新的版本号要大于旧的版本号。
+
+<div><img src="../assets/publish_agent8_cn.jpg" alt="publish_agent8" /></div>
+
+
+
+
+
