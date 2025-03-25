@@ -2,17 +2,19 @@
 
 ### 确认输出信息
 
-- 请确认你的项目可以正确运行。
+- 请确认您的项目可以正确运行。
 
-- **App**：App 的入口必须是 `.html` 文件。如果你的项目要注册 App 到 AI2Apps，确保你有正确的 html 文件入口。
+- **App**：App 的入口必须是 `.html` 文件。如果您的项目要注册 App 到 AI2Apps，确保您有正确的 html 文件入口。
 
-- **智能体**：如果你的项目要注册 Agent 到 AI2Apps 系统，一定打开 Agent 的`输出智能体`选项。
+- **智能体**：如果您的项目要注册 Agent 到 AI2Apps 系统，一定打开 Agent 的`输出组件`选项。
 
-### 准备安装脚本
+<div><img src="../assets/publish_agent9_cn.jpg" alt="publish_agent9" /></div>
+
+### 安装脚本
 
 #### setup.js
 
-- 在安装 App/Agent 时，会读取项目下的 `./setup.js` 文件，调用这个文件的默认输出的函数，得到并执行安装步骤脚本。
+- 在安装 App 或 Agent 时，会读取项目下的 `./setup.js` 文件，调用这个文件的默认输出的函数，得到并执行安装步骤脚本。
 
 - 通常 App 和在前端运行的 Agent 是无需编写 `./setup.js` 文件的。如果项目内容在 Tab-OS 里部署后还需要一些额外逻辑/操作要执行，可以写在 `./setup.js` 脚本里。
 
@@ -76,7 +78,7 @@ async function setupAgent(session,path,lan="EN"){
 
 ### 填写 disk.json
 
-- 以下是计算器 App 的 `disk.json`:
+- 以下是计算器 App 的 `disk.json`：
 
 ```json
 	{
