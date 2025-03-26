@@ -131,7 +131,7 @@ async function setupAgent(session,path,lan="EN"){
 
 ### 下载项目 zip 包
 
-点击`文件管理器`，选中当前项目，点击 `Check out from cloud`，下载当前目录的 zip 包备用。
+点击`文件管理器`，选中当前项目，点击 `Download folder as zip`，下载当前目录的 zip 包备用。
 
 <img src="../assets/download_zip_cn.jpg" alt="download_zip" />
 

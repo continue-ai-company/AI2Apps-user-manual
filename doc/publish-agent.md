@@ -18,11 +18,11 @@
 
 - Usually, the App and Agent running on the front end do not need to write `./setup.js` file. If project. If the project content needs some additional logic or operations to be performed after being deployed in Tab-OS, it can be written in the `./setup.js` file.
 
-- If the Agent runs on the back end, you should add the step of sync files in the `./setup.js` file.
+- If the Agent runs on the backend, you should add the step of sync files in the `./setup.js` file.
 
-- If the back end Agent needs to perform the deployment process, you should add the AI agent that can call the deployment project in the `./setup.js` file.
+- If the backend Agent needs to perform the deployment process, you should add the AI agent that can call the deployment project in the `./setup.js` file.
 
--  The `./setup.js` template of the back end Agent is as follows:
+-  The `./setup.js` template of the backend Agent is as follows:
 
 ```js
 import pathLib from "/@path";
@@ -71,11 +71,102 @@ async function setupAgent(session,path,lan="EN"){
 }
 ```
 
-#### Back-end Deployment Scripts
+#### Backend Deployment Scripts
 
-If your back end Agent installation requires further deployment, such as initializing the conda environment, installing brew/npm/pip dependencies, downloading hf models and more, the `./setup_agent.js` or `setup_guide.md` file must be in the directory of the back end Agent. This is used to guide the project deployment. 
+If your backend Agent installation requires further deployment, such as initializing the conda environment, installing brew/npm/pip dependencies, downloading hf models and more, the `./setup_agent.js` or `setup_guide.md` file must be in the directory of the backend Agent. This is used to guide the project deployment. 
 
 For details about the deployment, please see [deployment guide]().
 
-### 填写 disk.json
+### Edit disk.json
+
+- The `disk.json` of `Calculator App` is as follows:
+
+```json
+	{
+		"imports": {
+			"StdUI": "V1",
+			"cokemake": "v1",
+			"terser": "v1",
+			"rollup": "v1"
+		},
+		"toolExport": [
+			{
+				"type": "Agent",
+				"filePath": "./ai/execMath.js"
+			},
+			{
+				"type": "App",
+				"filePath": "./app.html",
+				"name": {
+					"EN": "Calculator",
+					"CN": "计算器"
+				},
+				"description": {
+					"EN": "Calculator App.",
+					"CN": "计算器程序。"
+				},
+				"icon": "cal.svg",
+				"package": "CalApp",
+				"appFrameW": 400,
+				"appFrameH": 600,
+				"group": "Tools"
+			}
+		],
+		"cloudId": "CalApp@avdpro@me.com",
+		"versionIdx": 2,
+		"version": "0.0.1"
+	}
+```
+
+- **Set Dependencies**: Please open the `Terminal` in the current project, type `pkg import [package-name]` in the terminal panel to add the dependencies to `disk.json` file. Please make sure that the non-system packages of the project are declared in the import object of `disk.json`.
+
+- **Execution Entry**: Please add an App and Agent to the `toolExport` object.
+
+    - Both App and Agent must have a `filePath` attribute. And the attribute is used to fill in the entry file of the App or Agent. In AI2Apps system, the full path of the entry file is used to distinguish different app or agent, it is a unique identification.
+
+    - **APP**: About App, you need to fill in detailed information, including name, function description, icon, size, etc.
+
+    - **Agent Agent**: About Agent, you need to provide the js file's relative  path of the entry Agent, and the AI2Apps sysytem will read the file's API output information.
+
+- **Icon**: If the icon is in the `/-tabos/shared/assets/` directory, you can use the file name directly, such as `"icon": "app.svg"`. If the icon is in a relative path to the current project, please start with `./ `, such as `"icon":"./icon/AppIcon.svg"`.
+
+### Download the Project Zip Package
+
+Click `File Manager`, select the current project, click `Download folder as zip`, download the zip package for backup.
+
+<img src="../assets/download_zip.jpg" alt="download_zip" />
+
+### Publish Project
+
+- Click the user icon on the sidebar -> click `Manage Account` -> click `My Apps` -> click `Create`.
+
+<div><img src="../assets/publish_agent1.jpg" alt="publish_agent1" /></div>
+<div><img src="../assets/publish_agent2.jpg" alt="publish_agent2" /></div>
+
+- Type text in `Application ID`, the text represents a unique identification of the published project, not the application's name. Then, open `Publish to agent Mart` and click `Next ->`.
+
+<div><img src="../assets/publish_agent3.jpg" alt="publish_agent3" /></div>
+
+- Type text in `Application Name` -> select `Mode`. If you want the Agent running in the backend, please select `Backend Agent Node`. Otherwise, please select `Agent/App in Tab-OS`.
+
+<div><img src="../assets/publish_agent5.jpg" alt="publish_agent5" /></div>
+
+- Type text about Agent/App in `Descrition`.
+
+<div><img src="../assets/publish_agent4.jpg" alt="publish_agent4" /></div>
+
+- Select the icon for the Agent/App, the icon will be displayed in the `Tool Mart`. Then, choose the downloaded zip package as `Application install file` and type text in `Version`. Finally, click `Next ->`.
+
+<div><img src="../assets/publish_agent6.jpg" alt="publish_agent6" /></div>
+
+- 
+
+
+
+
+选择 App 或 Agent `分类`、`功能`，输入用于搜索的`标签`，再点击`发布`，即可将应用或智能体发布到`应用市场`。
+
+<div><img src="../assets/publish_agent7.jpg" alt="publish_agent7" /></div>
+
+
 
