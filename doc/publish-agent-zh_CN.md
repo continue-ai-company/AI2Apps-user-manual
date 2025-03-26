@@ -169,6 +169,7 @@ async function setupAgent(session,path,lan="EN"){
 ### 升级智能体
 
 升级智能体与发布智能体一样，需要先准备好智能体的 zip 包。点击侧边栏上的用户图标 -> 点击`管理帐户` -> 点击`我的应用` -> 选择要升级的 Agent 或 App -> 点击升级图标，更新智能体发布信息后，即可发布新版本。
+
 > 注意：新的版本号要大于旧的版本号。
 
 <div><img src="../assets/publish_agent8_cn.jpg" alt="publish_agent8" /></div>

@@ -1,3 +1,0 @@
-## Example
-
-### Example 1

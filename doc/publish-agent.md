@@ -159,14 +159,20 @@ Click `File Manager`, select the current project, click `Download folder as zip`
 
 <div><img src="../assets/publish_agent6.jpg" alt="publish_agent6" /></div>
 
-- 
-
-
-
-
-选择 App 或 Agent `分类`、`功能`，输入用于搜索的`标签`，再点击`发布`，即可将应用或智能体发布到`应用市场`。
+- Select `Category` and `Features`, type text in `Tags`, then click `Publish` to publish the Agent/App to the `Tool Mart`.
 
 <div><img src="../assets/publish_agent7.jpg" alt="publish_agent7" /></div>
 
+### Install Agent
+
+For details, please see [tool mart](./too_mart-zh_CN.md).
+
+### Upgrade Agent
+
+To upgrade an Agent, you need to prepare zip package of the Agent. Click the user icon on the sidebar -> click `Manage Account` -> click `My Apps` -> select the Agent/App to upgrade -> click the upgrade icon, update the Agent release information, you can release the new version.
+
+> Note: The new version number must be larger than the old version number.
+
+<div><img src="../assets/publish_agent8.jpg" alt="publish_agent8" /></div>
 
 
