@@ -1,5 +1,7 @@
 ## 🧰 Tool Mart
 
+### Install Agent
+
 Click `Tools` -> click `Tool Mart` -> select `Newest`, agent lists will be displayed.
 
 <div><img src="../assets/tool-mart1.jpg" alt="tool-mart1" /></div>
@@ -15,3 +17,12 @@ After installation is complete, click `OK` in the pop-up box.
 
 <div><img src="../assets/tool-mart6.jpg" alt="tool-mart6" /></div>
 <div><img src="../assets/tool-mart7.jpg" alt="tool-mart7" /></div>
+
+
+### Uninstall Agent
+
+Click `Tools` -> click `Terminal` -> type `pkg uninstall project_name`. For example, the project name in `Tool Mart` is `ocr`, you need to check the local file `-ocr_app`, then type `pkg uninstall ocr_app` in `Terminal`.
+
+<div><img src="../assets/tool-mart8.jpg" alt="tool-mart8" /></div>
+<div><img src="../assets/tool-mart9.jpg" alt="tool-mart9" /></div>
+<div><img src="../assets/tool-mart10.jpg" alt="tool-mart10" /></div>
