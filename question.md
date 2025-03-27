@@ -4,3 +4,9 @@ When running/debugging an Agent on www.ai2apps.com, the system covers the costs 
 
 ### Acquire Energy
 After successfully registering and logging into Tab-OS, users receive a certain amount of free energy credits. Additionally, each day upon logging in, users receive a replenishment of energy based on their current user level. Successfully referring new members also earns users free system tokens, which can be exchanged for energy credits.
+
+<p align="right" >
+  <a href="../README.md">
+    🔗 Back to Home
+  </a>
+</p> 

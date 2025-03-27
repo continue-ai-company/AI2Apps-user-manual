@@ -25,3 +25,9 @@
 <div><img src="../assets/tool-mart8_cn.jpg" alt="tool-mart8" /></div>
 <div><img src="../assets/tool-mart9_cn.jpg" alt="tool-mart9" /></div>
 <div><img src="../assets/tool-mart10_cn.jpg" alt="tool-mart10" /></div>
+
+<p align="right" >
+  <a href="../README-zh_CN.md">
+    🔗 返回主页
+  </a>
+</p>

@@ -6,3 +6,9 @@ Click `Settings` button, then click `English` or `中文` checkbox in the `Langu
     <img src="../assets/language1.jpg" alt="language1" />
     <img src="../assets/language2.jpg" alt="language2" />
 </div>
+
+<p align="right" >
+  <a href="../README.md">
+    🔗 Back to Home
+  </a>
+</p> 

@@ -26,3 +26,9 @@ Click `Tools` -> click `Terminal` -> type `pkg uninstall project_name`. For exam
 <div><img src="../assets/tool-mart8.jpg" alt="tool-mart8" /></div>
 <div><img src="../assets/tool-mart9.jpg" alt="tool-mart9" /></div>
 <div><img src="../assets/tool-mart10.jpg" alt="tool-mart10" /></div>
+
+<p align="right" >
+  <a href="../README.md">
+    🔗 Back to Home
+  </a>
+</p> 
