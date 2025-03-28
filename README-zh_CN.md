@@ -81,9 +81,6 @@ node ./start.js
 - [日志](./CHANGELOG-zh_CN.md)
 
 
-[![YouTube 视频缩略图](https://www.youtube.com/watch?v=p4cl-FNlW8I)](https://www.youtube.com/watch?v=p4cl-FNlW8I)
-
-
-
+[![jimeng](https://img.youtube.com/vi/seRTYtwgLrk/0.jpg)](https://youtu.be/seRTYtwgLrk)
 
 
