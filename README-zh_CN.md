@@ -81,6 +81,4 @@ node ./start.js
 - [日志](./CHANGELOG-zh_CN.md)
 
 
-[![jimeng](https://img.youtube.com/vi/seRTYtwgLrk/0.jpg)](https://youtu.be/seRTYtwgLrk)
-
 
