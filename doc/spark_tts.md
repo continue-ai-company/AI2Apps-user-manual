@@ -1,4 +1,2 @@
-<video controls>
-  <source src="../assets//developing.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<video src="https://github.com/continue-ai-company/AI2Apps-user-manual/blob/main/assets/developing.mp4"></video>
+
