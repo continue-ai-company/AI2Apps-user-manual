@@ -18,7 +18,6 @@ After installation is complete, click `OK` in the pop-up box.
 <div><img src="../assets/tool-mart6.jpg" alt="tool-mart6" /></div>
 <div><img src="../assets/tool-mart7.jpg" alt="tool-mart7" /></div>
 
-
 ### Uninstall Agent
 
 Click `Tools` -> click `Terminal` -> type `pkg uninstall project_name`. For example, the project name in `Tool Mart` is `ocr`, you need to check the local file `-ocr_app`, then type `pkg uninstall ocr_app` in `Terminal`.
