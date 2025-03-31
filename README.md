@@ -66,6 +66,7 @@ node ./start.js
 - [Use IDE](./doc/write_agent.md)
 - [Publish Agent](./doc/publish-agent.md)
 - [Tool Mart](./doc/too_mart.md)
+- [Available Agents](./doc/example.md)
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 - [Switch Language](./doc/language.md)

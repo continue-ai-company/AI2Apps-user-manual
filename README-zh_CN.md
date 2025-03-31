@@ -68,6 +68,7 @@ node ./start.js
 - [使用 IDE](./doc/write_agent-zh_CN.md)
 - [发布智能体](./doc/publish-agent-zh_CN.md)
 - [市场工具](./doc/too_mart-zh_CN.md)
+- [可使用的智能体](./doc/example-zh_CN.md)
 - [团队协作](./doc/teamwork-zh_CN.md)
 - [更新系统](./doc/update_system-zh_CN.md)
 - [切换语言](./doc/language-zh_CN.md)
