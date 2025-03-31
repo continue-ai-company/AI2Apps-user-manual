@@ -7,6 +7,20 @@
 - Routine bugfix
 
 ## Changelog
+`2025-03-31`
+- When saving a HubFile, the file name will be simplified if it contains special characters.
+- Added support for `AI-Model` setting.
+- Added new feature: AA server supports `RAG`.
+- Optimized the writing of single HTML Agent.
+- Some bugfix.
+
+`2025-03-28`
+- Fixed the language disunity between the web and the backend Agent.
+- Adjusted `SysTabOSChat`, command detection is performed only when the input starts with a slash.
+- Added a web-side sandbox that can be used to execute web pages.
+- Added new Agent which can write simple web pages, supported multiple rounds of dialogue to improve web pages, and supported to add screenshots during dialogue to improve communication efficiency with AI.
+- Some bugfix.
+
 `2025-03-22`
 - Added the ChatEntry mechanism. On the Dashboard page, you can select tools or entrances for default dialog.
 - Optimized the default dialog Agent's handling of attachments to ensure that attachments can be correctly passed to the Agent. Detailed Agent read attachment, refer to AgentBuilder/ai/SysReadImage js Agent.

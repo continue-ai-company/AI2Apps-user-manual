@@ -7,6 +7,20 @@
 - 日常 bugfix 更新
 
 ## 变更记录
+`2025-03-31`
+- 保存 HubFile 的时候，如果文件名包含特殊字符，会简化文件名。
+- Dashboard 和其对话初步支持了 `AI-Model` 设置。
+- 新增功能：AA 服务器支持 `RAG`。
+- 优化了编写单 HTML 的 Agent，支持续写等。
+- 一些 bugfix。
+
+`2025-03-28`
+- 修复网页端和后端 Agent 语言不统一的问题。
+- 调整 `SysTabOSChat`，只有输入以`/`开头，才进行命令检测。
+- 新增网页端 Sandbox，可以用来执行编写的网页。
+- 新增可编写简单网页的Agent，支持多轮对话完善网页，支持在对话时添加截图提高与 AI 的沟通效率。
+- 一些 bugfix。
+
 `2025-03-22`
 - 新增ChatEntry机制，在Dashboard页面，可以选择默认对话的工具/入口。
 - 优化默认对话Agent对附件的处理方式，确保附件可以正确的传递给Agent。详细的Agent读取附件，可参考AgentBuilder/ai/SysReadImage.js智能体。
