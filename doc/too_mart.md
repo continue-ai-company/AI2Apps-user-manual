@@ -2,7 +2,7 @@
 
 ### Install Agent
 
-Click `Tools` -> click `Tool Mart` -> select `Newest`, agent lists will be displayed.
+Click `Tools` -> click `Tool Mart` -> select `Featured` or `Newest`, agent lists will be displayed.
 
 <div><img src="../assets/tool-mart1.jpg" alt="tool-mart1" /></div>
 <div><img src="../assets/tool-mart2.jpg" alt="tool-mart2" /></div>

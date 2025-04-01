@@ -2,7 +2,7 @@
 
 ### 安装智能体
 
-点击`Tools` -> 点击`工具市场` -> 选择`最新发布`，显示智能体列表。
+点击`Tools` -> 点击`工具市场` -> 选择`社区推荐`或`最新发布`，显示智能体列表。
 
 <div><img src="../assets/tool-mart1_cn.jpg" alt="tool-mart1" /></div>
 <div><img src="../assets/tool-mart2_cn.jpg" alt="tool-mart2" /></div>
