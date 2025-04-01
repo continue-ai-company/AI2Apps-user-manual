@@ -70,7 +70,6 @@ node ./start.js
 - [Teamwork](./doc/teamwork.md)
 - [Update System](./doc/update_system.md)
 - [Switch Language](./doc/language.md)
-- [Example](./doc/example.md)
 
 ## 💡 Q&A
 

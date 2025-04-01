@@ -164,7 +164,7 @@ async function setupAgent(session,path,lan="EN"){
 
 ### 安装项目
 
-详细步骤请参考[市场工具](./too_mart-zh_CN.md)。
+详细步骤请参考[工具市场](./too_mart-zh_CN.md)。
 
 ### 升级智能体
 
