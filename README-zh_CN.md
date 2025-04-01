@@ -63,8 +63,8 @@ node ./start.js
 ## 👋 入门指南
 
 - [简单对话](./doc/simple-chat-zh_CN.md)
-- [创建 Agent](./doc/create_project-zh_CN.md)
-- [查找已创建的 Agent](./doc/find_project-zh_CN.md)
+- [创建智能体](./doc/create_project-zh_CN.md)
+- [查找已创建的智能体](./doc/find_project-zh_CN.md)
 - [使用 IDE](./doc/write_agent-zh_CN.md)
 - [发布智能体](./doc/publish-agent-zh_CN.md)
 - [市场工具](./doc/too_mart-zh_CN.md)
