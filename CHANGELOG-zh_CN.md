@@ -7,6 +7,19 @@
 - 日常 bugfix 更新
 
 ## 变更记录
+`2025-04-15`
+- 支持 OpenAI 的 `ChatGPT 4.1/4.1-mini/4.1`。
+- 支持 `Claude 3.7`，支持了 Claude 的 Image-Input。
+- 优化了 Agent 文件的 SaveAs，在 SaveAs 的时候，会自动改名以及修改 `jaxId`。
+- 优化 UI ：输出的超长文本强制换行，Menu 菜单文本支持换行。
+- `FixArgs` 组件支持了向上询问机制。
+- 编写了专门用来回答向上询问的智能体：`SysReplyTool/SysTabOSReplyTool`。
+
+`2025-04-08`
+- Agent 层级对话机制。
+- ApiProxy：辅助 AI 编程应对 Yahoo 财经之类的需要 API-Key 的机制。
+- `Loop` 支持异步循环，更新了 RpaWebSearch 作为使用参考。
+
 `2025-03-31`
 - 保存 HubFile 的时候，如果文件名包含特殊字符，会简化文件名。
 - Dashboard 和其对话初步支持了 `AI-Model` 设置。

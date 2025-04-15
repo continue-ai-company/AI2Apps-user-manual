@@ -7,6 +7,19 @@
 - Routine bugfix
 
 ## Changelog
+`2025-04-15`
+- Added support for OpenAI `ChatGPT 4.1/4.1-mini/4.1`.
+- Added support for `Claude 3.7` and Claude's Image-Input.
+- Optimized Agent file SaveAs function, when SaveAs, AI2Apps will automatically change the name and modify 'jaxId'.
+- Optimized UI: the long text and the menu text will be forced to wrap.
+- Added an up-query mechanism of `FixArgs` component.
+- Added `SysReplyTool/SysTabOSReplyTool` Agent.
+
+`2025-04-08`
+- Added new level dialogue mechanism of Agent.
+- Added Api proxy.
+- Added `Loop` support for asynchronous loops and updated RpaWebSearch as a reference for use.
+
 `2025-03-31`
 - When saving a HubFile, the file name will be simplified if it contains special characters.
 - Added support for `AI-Model` setting.

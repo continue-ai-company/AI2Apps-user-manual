@@ -73,6 +73,10 @@ node ./start.js
 - [更新系统](./doc/update_system-zh_CN.md)
 - [切换语言](./doc/language-zh_CN.md)
 
+## 📖 使用手册
+
+<!-- - [组件详情](./doc/component-zh_CN.md) -->
+
 ## 💡 常见问题
 
 - [清单](./question-zh_CN.md)
@@ -80,4 +84,6 @@ node ./start.js
 ## 🔖 更新日志
 
 - [日志](./CHANGELOG-zh_CN.md)
+
+
 
