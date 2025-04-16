@@ -1,6 +1,6 @@
 # 🧩 Components
 
-- [Common](./common.md)
+<!-- - [Common](./common.md)
 
 - [AI Call](./ai_call.md)
 
@@ -8,4 +8,4 @@
 
 - [Flow Control](./flow_control.md)
 
-- [Code](./code.md)
+- [Code](./code.md) -->
