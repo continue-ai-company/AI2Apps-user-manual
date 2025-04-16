@@ -75,7 +75,7 @@ node ./start.js
 
 ## 📖 使用手册
 
-- [组件详情](./doc/component-zh_CN.md)
+- [组件详情](./doc/components/index-zh_CN.md)
 
 ## 💡 常见问题
 

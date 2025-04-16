@@ -73,6 +73,7 @@ node ./start.js
 
 ## 📖 User Manual
 
+- [Components](./doc/components/index.md)
 
 ## 💡 Q&A
 
