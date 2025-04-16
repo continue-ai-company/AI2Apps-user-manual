@@ -60,11 +60,11 @@ node ./start.js
 
 ## 👋 Getting Started
 
-- [Basic Chat](./doc/simple-chat.md)
+- [Basic Chat](./doc/simple_chat.md)
 - [Create Agent](./doc/create_project.md)
 - [Find Created Agent](./doc/find_project.md)
 - [Use IDE](./doc/write_agent.md)
-- [Publish Agent](./doc/publish-agent.md)
+- [Publish Agent](./doc/publish_agent.md)
 - [Tool Mart](./doc/too_mart.md)
 - [Available Agents](./doc/example.md)
 - [Teamwork](./doc/teamwork.md)

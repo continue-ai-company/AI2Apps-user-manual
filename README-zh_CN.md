@@ -62,11 +62,11 @@ node ./start.js
 
 ## 👋 入门指南
 
-- [简单对话](./doc/simple-chat-zh_CN.md)
+- [简单对话](./doc/simple_chat-zh_CN.md)
 - [创建智能体](./doc/create_project-zh_CN.md)
 - [查找已创建的智能体](./doc/find_project-zh_CN.md)
 - [使用 IDE](./doc/write_agent-zh_CN.md)
-- [发布智能体](./doc/publish-agent-zh_CN.md)
+- [发布智能体](./doc/publish_agent-zh_CN.md)
 - [工具市场](./doc/too_mart-zh_CN.md)
 - [可使用的智能体](./doc/example-zh_CN.md)
 - [团队协作](./doc/teamwork-zh_CN.md)
