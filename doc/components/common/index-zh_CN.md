@@ -12,14 +12,14 @@
 
 - [条件分支](./branch-zh_CN.md)
 
+- [代码片段](./code_seg-zh_CN.md)
+
 <!-- 
-- [代码片段]()
 
 - [调用 AI-Agent]()  
-
 - [注释]() 
 
-code_seg
+
 call_ai_agent
 note
 
