@@ -20,12 +20,12 @@
     <img src="../../../assets/user-chat5_component_cn.jpg" alt="user-chat5" />
 </p>
 
+### 2. 对象属性详解
+
 鼠标左键点击组件，右侧会显示相应的对象属性面板。
 <p>
     <img src="../../../assets/user-chat4_component_cn.jpg" alt="user-chat4" />
 </p>
-
-### 2. 对象属性详解
 
 **ID 名称**：该组件的唯一标识，不可重复，建议用英文命名。
 

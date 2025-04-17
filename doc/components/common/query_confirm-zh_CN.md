@@ -23,14 +23,13 @@
     <img src="../../../assets/query-confirm5_component_cn.jpg" alt="query-confirm5" />
 </p>
 
-鼠标左键点击父组件、子按钮，右侧会显示相应的对象属性面板。
-
-<p><img src="../../../assets/query-confirm6_component_cn.jpg" alt="query-confirm6" /></p>
-<p><img src="../../../assets/query-confirm7_component_cn.jpg" alt="query-confirm7" /></p>
-
 ### 2. 对象属性详解
 
+鼠标左键点击父组件、子按钮，右侧会显示相应的对象属性面板。
+
 #### 2.1 父组件对象属性
+
+<p><img src="../../../assets/query-confirm6_component_cn.jpg" alt="query-confirm6" /></p>
 
 **ID 名称**：该组件的唯一标识，不可重复，建议用英文命名。
 
@@ -57,6 +56,8 @@
 **Trace logs**：当前组件运行的日志。
 
 #### 2.2 子按钮对象属性
+
+<p><img src="../../../assets/query-confirm7_component_cn.jpg" alt="query-confirm7" /></p>
 
 **ID 名称**：该组件的标识，建议用英文命名。
 

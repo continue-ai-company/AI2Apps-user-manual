@@ -12,6 +12,8 @@
 
 ### 2. 对象属性详解
 
+鼠标左键点击组件，右侧会显示相应的对象属性面板。
+
 <p>
     <img src="../../../assets/connector2_component_cn.jpg" alt="connector3" />
 </p>
