@@ -14,17 +14,9 @@
 
 - [代码片段](./code_seg-zh_CN.md)
 
-<!-- 
+- [调用 AI-Agent](./call_ai_agent-zh_CN.md)
 
-- [调用 AI-Agent]()  
-- [注释]() 
-
-
-call_ai_agent
-note
-
--->
-
+<!-- - [注释](./note-zh_CN.md)  -->
 
 <p align="right" >
   <a href="../../components/index-zh_CN.md">
