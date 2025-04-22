@@ -6,10 +6,8 @@
 
 - [用 AI 绘制](./ai_draw-zh_CN.md)
 
-<!-- 
+- [文本朗读](./tts-zh_CN.md)
 
-- [文本朗读]
-
-- [Remote Chat] -->
+<!-- - [Remote Chat] -->
 
 
