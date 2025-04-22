@@ -50,7 +50,6 @@
 
 **Trace logs**：当前组件运行的日志。
 
-
 <p align="right" >
   <a href="../../components/AI_call/index-zh_CN.md">
     🔗 返回上一页
