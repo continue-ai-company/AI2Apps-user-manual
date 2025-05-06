@@ -6,9 +6,7 @@
 
 - [图片输出](./image-zh_CN.md)
 
-- [文本输入]()
-
-- [按钮询问]()
+- [按钮询问](./query_confirm-zh_CN.md)
 
 - [菜单询问]()
 
@@ -22,9 +20,9 @@
 
 - [对话框]()
 
-<!-- Image
-Input Text
-Query Confirm
+<!-- 
+
+
 Menu Query
 Open File
 Record Audio
