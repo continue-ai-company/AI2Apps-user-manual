@@ -4,8 +4,9 @@
 
 - [AI 调用](./AI_call/index-zh_CN.md)
 
+- [交互/输出](./interactive/index-zh_CN.md)
+
 <!-- 
-- [交互/输出](./interactive-zh_CN.md)
 - [流程控制](./flow_control-zh_CN.md)
 - [代码](./code-zh_CN.md) 
 -->

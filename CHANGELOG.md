@@ -7,6 +7,11 @@
 - Routine bugfix
 
 ## Changelog
+`2025-04-29`
+- When inserting codes, if using space indentation, the codes will be automatically scanned during saving and the space indentation will be converted to `tab` indentation.
+- Optimized GPTCheat: it can be triggered by numbers based on the length of the current dialogue memory array, which is convenient for debugging.
+- Optimized AATools: the AAToolSet object has been added for toolset definition/invocation in complex situations.
+
 `2025-04-15`
 - Added support for OpenAI `ChatGPT 4.1/4.1-mini/4.1`.
 - Added support for `Claude 3.7` and Claude's Image-Input.
