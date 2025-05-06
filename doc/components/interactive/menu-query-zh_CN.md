@@ -1,35 +1,29 @@
-## 按钮询问
+## 菜单询问
 
-作用：方便用户不同操作选择。
+作用：方便用户单选或多选。
 
 ### 1. 基础操作
 
-在组件工具栏中，鼠标左键点击`按钮询问`，右侧画布则会显示`按钮询问`组件。
-在焦点处输入组件名称，如 **Btn**，再按下 `enter` 键，即可为组件命名。
+在组件工具栏中，鼠标左键点击`菜单询问`，右侧画布则会显示`菜单询问`组件。
+在焦点处输入组件名称，如 **Menu**，再按下 `enter` 键，即可为组件命名。
 <p>
-    <img src="../../../assets/query-confirm2_component_cn.jpg" alt="query-confirm2" />
-    <img src="../../../assets/query-confirm1_component_cn.jpg" alt="query-confirm1" />
-    <img src="../../../assets/query-confirm3_component_cn.jpg" alt="query-confirm3" />
-</p>
-
-组件中最多可包含3个子按钮。选中其中一个，按下 `del` 键，点击`确定`即可进行删除。
-<p>
-    <img src="../../../assets/query-confirm4_component_cn.jpg" alt="query-confirm4" />
+    <img src="../../../assets/menu-query1_cn.jpg" alt="menu-query1" />
+    <img src="../../../assets/menu-query2_cn.jpg" alt="menu-query2" />
 </p>
 
 选中组件，组件右下角会显示一个**加号**按钮，点击该按钮即可添加新的子按钮。
-
 <p>
-    <img src="../../../assets/query-confirm5_component_cn.jpg" alt="query-confirm5" />
+    <img src="../../../assets/menu-query3_cn.jpg" alt="menu-query3" />
 </p>
 
 ### 2. 对象属性详解
 
-鼠标左键点击父组件、子按钮，右侧会显示相应的对象属性面板。
+鼠标左键点击父组件、子选项，右侧会显示相应的对象属性面板。
 
 #### 2.1 父组件对象属性
-
-<p><img src="../../../assets/query-confirm6_component_cn.jpg" alt="query-confirm6" /></p>
+<p>
+    <img src="../../../assets/menu-query4_cn.jpg" alt="menu-query4" />
+</p>
 
 **ID 名称**：该组件的唯一标识，不可重复，建议用英文命名。
 
@@ -38,16 +32,15 @@
 <!-- **输入（样板）**： -->
 
 **提示文本**：可用作提示用户选择的引导语。
-<p><img src="../../../assets/query-confirm11_component_cn.jpg" alt="query-confir11" /></p>
 
+**多选**：可设置选项为单选或单选。选择`是`，则代表用户可以进行多选；选择`否`，则仅支持单选。
+
+<!-- **允许输入**：
+**输入提示**： -->
 <!-- **Silent**：
-<p><img src="../../../assets/query-confirm8_component_cn.jpg" alt="query-confir8" /></p>
+**Silent outlet**： -->
 
-**Silent outlet**：
-<p><img src="../../../assets/query-confirm9_component_cn.jpg" alt="query-confir9" /></p> -->
-
-**倒计时**：开启倒计时，在规定的时间内，按钮选项消失。
-<p><img src="../../../assets/query-confirm10_component_cn.jpg" alt="query-confir10" /></p>
+**倒计时**：开启倒计时，在规定的时间内，菜单选项消失。
 
 **附有代码**：可在代码指定编辑区域内添加代码。选择`是`，则代表用户可以添加代码；选择`否`，则无法添加代码。
 
@@ -55,9 +48,10 @@
 
 **Trace logs**：当前组件运行的日志。
 
-#### 2.2 子按钮对象属性
-
-<p><img src="../../../assets/query-confirm7_component_cn.jpg" alt="query-confirm7" /></p>
+#### 2.2 子选项对象属性
+<p>
+    <img src="../../../assets/menu-query5_cn.jpg" alt="menu-query5" />
+</p>
 
 **ID 名称**：该组件的标识，建议用英文命名。
 
@@ -66,7 +60,6 @@
 **输出**：用于组件最终的输出结果。
 
 <!-- **图标**：
-
 **表情符号**： -->
 
 **使用代码**：可在代码指定编辑区域内添加代码。选择`是`，则代表用户可以添加代码；选择`否`，则无法添加代码。
