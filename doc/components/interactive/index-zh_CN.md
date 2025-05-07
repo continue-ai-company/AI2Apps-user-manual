@@ -8,9 +8,9 @@
 
 - [按钮询问](./query_confirm-zh_CN.md)
 
-- [菜单询问]()
+- [菜单询问](./menu-query-zh_CN.md)
 
-- [打开文件]()
+- [打开文件](./open-file-zh_CN.md)
 
 - [录音]()
 
@@ -21,10 +21,6 @@
 - [对话框]()
 
 <!-- 
-
-
-Menu Query
-Open File
 Record Audio
 Edit Object
 UI Block
