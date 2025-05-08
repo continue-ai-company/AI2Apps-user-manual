@@ -6,29 +6,29 @@
 
 - 首先，
 在组件工具栏中，鼠标左键点击`打开文件`，右侧画布则会显示`打开文件`组件。在焦点处输入组件名称，如 **File**，再按下 `enter` 键，即可为组件命名。
-    <p><img src="../../../assets/open-file1_cn.jpg" alt="open-file1" /></p>
-    <p><img src="../../../assets/open-file2_cn.jpg" alt="open-file2" /></p>
+    <p><img src="../../../assets/open_file1_cn.jpg" alt="open_file1" /></p>
+    <p><img src="../../../assets/open_file2_cn.jpg" alt="open_file2" /></p>
 
 - 接着，
 点击` AI 智能体`，设置启动入口为**File**，点击`保存`按钮。
-    <p><img src="../../../assets/open-file5_cn.jpg" alt="open-file5" /></p>
-    <p><img src="../../../assets/open-file6_cn.jpg" alt="open-file6" /></p>
-    <p><img src="../../../assets/open-file7_cn.jpg" alt="open-file7" /></p>
+    <p><img src="../../../assets/open_file5_cn.jpg" alt="open_file5" /></p>
+    <p><img src="../../../assets/open_file6_cn.jpg" alt="open_file6" /></p>
+    <p><img src="../../../assets/open_file7_cn.jpg" alt="open_file7" /></p>
 
 - 然后，
 点击`调试 Agent`->`确定`，即可运行。
-    <p><img src="../../../assets/open-file3_cn.jpg" alt="open-file3" /></p>
-    <p><img src="../../../assets/open-file4_cn.jpg" alt="open-file4" /></p>
+    <p><img src="../../../assets/open_file3_cn.jpg" alt="open_file3" /></p>
+    <p><img src="../../../assets/open_file4_cn.jpg" alt="open_file4" /></p>
 
 - 最后，
-点击文件icon，选择本地文件。
-    <p><img src="../../../assets/open-file8_cn.jpg" alt="open-file8" /></p>
+Agent启动后，点击文件icon，选择本地文件。
+    <p><img src="../../../assets/open_file8_cn.jpg" alt="open_file8" /></p>
 
 ### 2. 对象属性详解
 
 鼠标左键点击组件，右侧会显示相应的对象属性面板。
 
-<p><img src="../../../assets/open-file9_cn.jpg" alt="open-file9" /></p>
+<p><img src="../../../assets/open_file9_cn.jpg" alt="open_file9" /></p>
 
 **ID 名称**：该组件的唯一标识，不可重复，建议用英文命名。
 
@@ -39,14 +39,14 @@
 **提示文本**：可用作提示用户选择的引导语。
 
 **文件系统**：可选择本地文件或网页内文件。
-<p><img src="../../../assets/open-file10_cn.jpg" alt="open-file10" /></p>
+<p><img src="../../../assets/open_file10_cn.jpg" alt="open_file10" /></p>
 
 **文件系统**：可设置文件的默认路径。
 
 **文件类型**：用于设置文件的不同类型。
 
 **读出内容**：用于设置文件最终的输出格式。
-<p><img src="../../../assets/open-file11_cn.jpg" alt="open-file11" /></p>
+<p><img src="../../../assets/open_file11_cn.jpg" alt="open_file11" /></p>
 
 **附有代码**：可在代码指定编辑区域内添加代码。选择`是`，则代表用户可以添加代码；选择`否`，则无法添加代码。
 

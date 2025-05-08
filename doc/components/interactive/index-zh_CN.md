@@ -12,7 +12,7 @@
 
 - [打开文件](./open-file-zh_CN.md)
 
-- [录音]()
+- [录音](./record-audio-zh_CN.md)
 
 - [编辑对象]()
 
@@ -21,7 +21,8 @@
 - [对话框]()
 
 <!-- 
-Record Audio
+
+
 Edit Object
 UI Block
 UI Dialog -->
