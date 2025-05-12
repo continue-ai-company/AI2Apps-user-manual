@@ -14,7 +14,7 @@
 
 - [录音](./record-audio-zh_CN.md)
 
-- [编辑对象]()
+- [编辑对象](./edit-object-zh_CN.md)
 
 - [UI 片段]()
 
@@ -23,7 +23,7 @@
 <!-- 
 
 
-Edit Object
+
 UI Block
 UI Dialog -->
 
