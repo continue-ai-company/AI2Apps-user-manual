@@ -16,18 +16,9 @@
 
 - [编辑对象](./edit-object-zh_CN.md)
 
-- [UI 片段]()
+<!-- - [UI 片段](./UI-block-zh_CN.md) -->
 
-- [对话框]()
-
-<!-- 
-
-
-
-UI Block
-UI Dialog -->
-
-
+- [对话框](./UI-dialog-zh_CN.md)
 
 <p align="right" >
   <a href="../../components/index-zh_CN.md">
