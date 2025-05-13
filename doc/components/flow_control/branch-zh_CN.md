@@ -79,7 +79,7 @@
 **说明**：对该组件的辅助说明。
 
 <p align="right" >
-  <a href="../common/index-zh_CN.md">
+  <a href="../../components/index-zh_CN.md">
     🔗 返回上一页
   </a>
 </p>
