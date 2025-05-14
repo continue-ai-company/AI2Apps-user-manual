@@ -27,6 +27,7 @@
   <img src="../../assets/save_btn_cn.jpg" alt="save_btn" />
 </p>
 
+> 新增组件后，
 
 <p align="right" >
   <a href="../../README-zh_CN.md">

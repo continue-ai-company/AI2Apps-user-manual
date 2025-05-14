@@ -50,7 +50,7 @@
 **Trace logs**：当前组件运行的日志。
 
 <p align="right" >
-  <a href="../../components/common/index-zh_CN.md">
+  <a href="../common/index-zh_CN.md">
     🔗 返回上一页
   </a>
 </p>
